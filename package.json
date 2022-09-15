@@ -1,0 +1,21 @@
+{
+  "name": "jsgyak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VZS2002/JSGYAK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VZS2002/JSGYAK/issues"
+  },
+  "homepage": "https://github.com/VZS2002/JSGYAK#readme",
+  "keywords": [],
+  "description": ""
+}
